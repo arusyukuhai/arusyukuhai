@@ -1,16 +1,19 @@
-## Hi there 👋
+# r-4981 / arusyukuhai
+## Etymology
+* From Japanese prefix "[aru](https://en.wiktionary.org/wiki/aru#Japanese)" (或る) + anagram of [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four). also parody from [r-906](https://ja.wikipedia.org/wiki/R-906).
 
-<!--
-**r-4981/r-4981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Noun
+1. The most incompetent human in the world. Or human who, without realizing that they are the most incompetent human in the world, continue to make futile efforts, believing that they can beat a true genius or gifted. <br>
+    <sub>Synonyms: [eragebroken](https://x.com/eragebroken), [syamu game](https://dic.nicovideo.jp/a/syamu%20game), [supermurder'o](https://dic.pixiv.net/a/スーパーマダオ), [wannabe](https://ja.wikipedia.org/wiki/ワナビー)</sub><br>
+   <sub>Antonym: [programmer](https://en.wiktionary.org/wiki/programmer)</sub>
+1. The fictional character portrayed as a highschool student and/or programmer.
+1. Public enemy of SCP Foundation.
 
-Here are some ideas to get you started:
+## Derived terms
+* nonfict arusyukuhai
+* stats arusyukuhai
+* create 2b2t arusyukuhai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## See also
+* [Steve Jobs](https://en.wiktionary.org/wiki/Steve_Jobs)
+* [Elon](https://en.wiktionary.org/wiki/Elon)
