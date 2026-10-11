@@ -1,4 +1,4 @@
-# r-4981 / arusyukuhai / riji
+# riji / r-4981 / arusyukuhai
 ## Etymology
 * From Japanese prefix "[aru](https://en.wiktionary.org/wiki/aru#Japanese)" (或る) + anagram of [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four). also parody from [r-906](https://ja.wikipedia.org/wiki/R-906).
 * "理事 (riji)", which means "director" in Japanese.
