@@ -6,7 +6,7 @@
 ## Noun
 1. The most incompetent human in the world. Or human who, without realizing that they are the most incompetent human in the world, continue to make futile efforts, believing that they can beat a true genius or gifted. <br>
     <sub>Synonyms: [eragebroken](https://x.com/eragebroken), [syamu game](https://dic.nicovideo.jp/a/syamu%20game), [supermurder'o](https://dic.pixiv.net/a/スーパーマダオ), [wannabe](https://ja.wikipedia.org/wiki/ワナビー)</sub><br>
-   <sub>Antonym: [programmer](https://en.wiktionary.org/wiki/programmer), [engineer](https://en.wiktionary.org/wiki/engineer)</sub>
+   <sub>Antonym: [engineer](https://en.wiktionary.org/wiki/engineer)</sub>
 1. The fictional character portrayed as a cute highschooler boy and/or programmer. Not existing shota.
 1. The entrepreneur that change the world. Director of Kei Corp.
 
