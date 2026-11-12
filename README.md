@@ -14,7 +14,7 @@
 * suno arusyukuhai
 * nonfict arusyukuhai
 * kleismic arusyukuhai
-* lens arusyukuhai
+* kcia arusyukuhai
 
 ## See also
 * [Yi Sang](https://ja.wikipedia.org/wiki/%E6%9D%8E%E7%AE%B1)
